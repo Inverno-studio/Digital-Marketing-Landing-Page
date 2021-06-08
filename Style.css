@@ -1,0 +1,298 @@
+
+html, body {
+ margin: 0%;
+ padding: 0%;
+ overflow-x: hidden;
+ font-family: 'Roboto'
+}
+   
+
+.textleft{
+    padding-top: 10%;
+    font-family: 'Noto Serif KR';
+}
+.imagepc{
+    padding-top: 10%;
+    padding-left: 30%;
+    padding-right: 0%;
+}
+.textleft1{
+    padding-top: 30%;
+    font-family: 'Noto Serif KR';
+}
+
+.imagepc1{
+    padding-top: 10%;
+    padding-left: 5%;
+    padding-bottom: 10%;
+}
+.section_1 {
+    position: relative;
+   background-color: rgba(0, 48, 37, 5%) ;
+   
+  }
+  .section_2 {
+    position: relative;
+   
+   
+  }
+  .section_4 {
+    position: relative;
+  }
+
+  .custom-shape-divider-bottom-1622539376 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1622539376 svg {
+    position: relative;
+    display: block;
+    width: calc(108% + 1.3px);
+    height: 52px;
+}
+
+.custom-shape-divider-bottom-1622539376 .shape-fill {
+    fill: #FFFFFF;
+}
+.row-6 h1{
+    padding-top: 10%;
+}
+
+  .cour{
+padding-top: 5%;
+  }
+  .section_3 {
+    position: relative;
+   background-color:#F2F5F6 ;
+   
+  }
+
+  .card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+    
+  }
+  .img-square-wrapper{
+      float: left;
+  }
+  .slide{
+      background-color: white;
+      width: 10;
+      height: 20%;
+    }
+.heading{
+    padding-top: 10%;
+    padding-left: 30%;
+    font-family: 'Noto Serif KR';
+}
+
+.box{
+    background-color: white;
+   
+}
+.hedings{
+padding-top: 10%;
+}
+.carousel-inner{
+    padding-top: 5%;
+    background-color:rgba(0, 48, 37, 5%) ;
+}
+.service{
+    background-color:rgba(0, 48, 37, 5%) ;
+}
+.watermark{
+   position: absolute;
+   padding-top: 5%;
+}
+
+
+.hed{
+    padding-top: 10%;
+    padding-left: 25%;
+    
+}
+.leftsec{
+    padding-top: 20%;
+    display: flex;
+}
+.rightsec{
+    padding-top: 20%;
+   
+}
+.gapp{
+    padding-top: 20%;
+    display: flex;
+}
+.exp{
+    padding-top: 5%;
+    padding-left: 57%;
+}
+
+    
+
+.img3{
+    flex-basis: 20%;
+    
+}
+
+  .clint{
+    background-color:rgba(0, 48, 37, 5%) ;
+  } 
+.clh1{
+padding-top: 10%;
+font-family: 'Noto Serif KR';
+}
+.text{
+    padding-top: 15%;
+    padding-left: 10%;
+}
+.cli{
+    padding-top: 5%;
+}
+
+.clintimg{
+    padding-top: 25%;
+ padding-left: 40%;
+    
+}
+.grow{
+    padding-top: 20%;
+    font-family: 'Noto Serif KR';
+}
+
+
+.button {
+   
+    margin: 0 auto;
+    display: inline;}
+    
+        .btn {
+   
+    margin: 0 auto;
+    display: inline;}
+
+.footer{
+    background-color:rgba(0, 48, 73, 100%);
+}
+
+section {
+    padding: 60px 0;
+}
+
+section .section-title {
+    text-align: center;
+    color: #007b5e;
+    margin-bottom: 50px;
+    text-transform: uppercase;
+}
+#footer {
+    background: #003049 !important;
+}
+#footer h5{
+	padding-left: 10px;
+   
+    padding-bottom: 6px;
+    margin-bottom: 20px;
+    color:#ffffff;
+}
+#footer a {
+    color: #ffffff;
+    text-decoration: none !important;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+#footer ul.social li{
+	padding: 3px 0;
+}
+#footer ul.social li a i {
+    margin-right: 5px;
+	font-size:25px;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#footer ul.social li:hover a i {
+	font-size:30px;
+	margin-top:-10px;
+}
+#footer ul.social li a,
+#footer ul.quick-links li a{
+	color:#ffffff;
+}
+#footer ul.social li a:hover{
+	color:#eeeeee;
+}
+#footer ul.quick-links li{
+	padding: 3px 0;
+	-webkit-transition: .5s all ease;
+	-moz-transition: .5s all ease;
+	transition: .5s all ease;
+}
+#footer ul.quick-links li:hover{
+	padding: 3px 0;
+	margin-left:5px;
+	font-weight:700;
+}
+#footer ul.quick-links li a i{
+	margin-right: 5px;
+}
+#footer ul.quick-links li:hover a i {
+    font-weight: 700;
+}
+
+.arr a{
+display: flex;
+
+    padding-left: 80%!important;
+    padding-top: 7% !important;
+    
+}
+.arr1 a{
+    display: flex;
+    
+        padding-left: 10%!important;
+        padding-top: 0% !important;
+        
+    }
+.navbar{
+     background-color:rgba(0, 48, 37, 5%) !important;
+}
+.gt{
+text-align: left;
+}
+
+
+
+
+@media (max-width:767px){
+	#footer h5 {
+    padding-left: 0;
+   
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
